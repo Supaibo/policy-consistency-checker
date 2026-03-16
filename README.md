@@ -14,17 +14,6 @@
 
 When a document is uploaded to a monitored SharePoint library, the system automatically chunks and embeds it, performs vector similarity search against reference policy documents, sends semantically similar pairs to an LLM judge, and surfaces detected contradictions and ambiguities directly inside SharePoint — with Microsoft 365 Copilot integration for resolution assistance.
 
----
-
-## Repository structure
-
-This repository contains two projects:
-
-```
-/
-├── policy-consistency-fn/     ← Azure Functions backend (AI pipeline + REST API)
-└── policy-consistency-spfx/   ← SPFx web part (React frontend)
-```
 
 ---
 

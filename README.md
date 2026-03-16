@@ -34,7 +34,9 @@ All of this runs within the Microsoft 365 trust boundary — no data egress, per
 
 ## Demo
 
-> 📹 [Watch the demo video](#) — 8 minutes
+> 📹 [Watch the demo video](https://youtu.be/NMTfrHTyyWo) — 8 minutes
+
+[![Policy Consistency Checker Demo](https://img.youtube.com/vi/NMTfrHTyyWo/maxresdefault.jpg)](https://youtu.be/NMTfrHTyyWo)
 
 ---
 
